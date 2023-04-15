@@ -70,10 +70,11 @@ html {
   top: -2.5rem;
   right: -10rem;
   transition: transform 1s;
+
 }
 
 .container.change .shoe-1 {
-  transform: translateX(-50rem) rotateZ(45deg);
+  transform: translateX(-90rem) rotateZ(45deg);
 }
 
 .shoe-2 {
